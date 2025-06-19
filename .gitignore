@@ -2,5 +2,4 @@ __pycache__
 .pytest_cache
 .vevn
 .vscode
-pytest.ini
 .DS_Store
