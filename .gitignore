@@ -1,0 +1,5 @@
+_pycache_
+.pytest_cache
+.vevn
+.vscode
+pytest.ini
